@@ -1,0 +1,30 @@
+ /**
+  * SOLID PRINCIPLES
+  * 
+  * Why We need SOLID principles?
+  * The broad goal of solid principles is to reduce dependencies so that engineeries can change one area of the software without impacting the others
+  * Additionally, they're intended to make designs easier to understand maintain and extend.
+  * 
+  * The following five concepts make up our solid principles:
+  *  . Single Responsability
+  *  . Open/Closed 
+  *  . Liskov Substitution
+  *  . Interface segregation
+  *  . Dependency Inversion
+  * 
+  * SINGLE RESPONSABILITY: 
+  * It states that one class should have one and only one responsability.
+  * 
+  * OPEN/CLOSED:
+  * Open for extension but close for modification. Open for extension means that we can extend and include extra functionalities in our code, without 
+  * altering or affecting our existing implmentation. The term "Closed for modification" means that after we add the extra functionality, we should not 
+  * modify the existing implmentation
+  * 
+  * LISKOV SUBSTITUTION.
+  * Means that the classes, fellow developers created by extending our class, should be able to fit in application without failure. This is important when we 
+  * resort to polymorphic behaviour through inheritance
+  * 
+  * INTERFACE SEGREGATION:
+  * Client should not be forced to implement unecessary methods which they will not use.
+  * 
+  */ 
